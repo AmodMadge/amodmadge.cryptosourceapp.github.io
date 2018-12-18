@@ -23,9 +23,18 @@
               "src/assets"
             ],
             "styles": [
+              "C:/Users/user/Angular 4/newCrypto/node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "C:/Users/user/Angular 4/newCrypto/node_modules/font-awesome/css/font-awesome.css",
+              "C:/Users/user/Angular 4/newCrypto/node_modules/ion-rangeslider/css/ion.rangeSlider.css",
+               "C:/Users/user/Angular 4/newCrypto/node_modules/ion-rangeslider/css/ion.rangeSlider.skinFlat.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "C:/Users/user/Angular 4/newCrypto/node_modules/jquery/dist/jquery.min.js",
+              "C:/Users/user/Angular 4/newCrypto/node_modules/ion-rangeslider/js/ion.rangeSlider.min.js",
+              "C:/Users/user/Angular 4/newCrypto/node_modules/popper.js/dist/umd/popper.min.js",
+              "C:/Users/user/Angular 4/newCrypto/node_modules/bootstrap/dist/js/bootstrap.min.js" 
+              ]
           },
           "configurations": {
             "production": {

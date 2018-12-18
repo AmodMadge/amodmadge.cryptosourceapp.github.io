@@ -1,0 +1,15 @@
+<div class="container">
+  <br/>
+  <br/>
+
+    <div style="margin-top: 20px;" class="col-12">
+      <h1> Comparison View</h1>
+    </div>
+    <div *ngIf = "chart1">
+      <canvas id="canvas">{{ chart1 }}</canvas>
+    </div>
+    <div style="margin-top: 20px;" class="col-12">
+      <button class="btn btn-primary" (click)="goBack()">Back</button>
+    </div>
+</div>
+
